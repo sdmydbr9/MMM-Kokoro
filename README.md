@@ -10,6 +10,7 @@ This set up uses the [kokoro fast api](https://github.com/remsky/Kokoro-FastAPI)
 - **Text-to-Speech:** Leverage the Kokoro TTS model to convert text into natural-sounding speech.
 - **Easy Integration:** Designed as a MagicMirror module, it’s simple to install and configure.
 - **Customizable Options:** Configure voice, pitch, speed, and volume to suit your needs.
+- **Note:** By default the module works with SHOW_ALERT notification and an additional KOKORO_SAY notification is added, tweak it to suit your needs.
 
 ## Installation
 
