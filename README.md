@@ -71,5 +71,4 @@ This set up uses the [kokoro fast api](https://github.com/remsky/Kokoro-FastAPI)
 ## License
 
 This project is licensed under the MIT License.
-```
 
