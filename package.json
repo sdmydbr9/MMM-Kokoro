@@ -1,0 +1,23 @@
+{
+  "name": "MMM-Kokoro",
+  "version": "1.0.0",
+  "description": "A MagicMirror module for text-to-speech using the Kokoro API",
+  "main": "MMM-Kokoro.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/MMM-Kokoro.git"
+  },
+  "author": "sdmy",
+  "license": "MIT",
+  "keywords": [
+    "magicmirror",
+    "module",
+    "tts",
+    "kokoro"
+  ],
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "dependencies": {}
+}
